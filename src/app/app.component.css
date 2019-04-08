@@ -1,0 +1,23 @@
+.content {
+    padding-top: 8rem;
+    height: 35rem;
+    background-color: antiquewhite;
+}
+
+.faixa{
+    position: relative;
+    background-color: #683100;
+    height: 4rem;
+    font-size: 1.3rem;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Pacifico', cursive;
+}
+
+@media only screen and (max-width: 1180px){.content {height: 32rem;}}
+@media only screen and (max-width: 1020px){.content {height: 27rem;}}
+@media only screen and (max-width: 890px){.content {height: 45rem;}}
+@media only screen and (max-width: 740px){.content {height: 55rem;}}
+@media only screen and (max-width: 570px){.content {height: 45rem;}}

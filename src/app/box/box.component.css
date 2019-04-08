@@ -1,0 +1,353 @@
+.content{
+    position: relative;
+    left: 50%;
+    transform: translatex(-50%);
+    background-color: rgba(255, 255, 255, 0.541);
+    width: 85vw;
+    padding: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #683100;
+}
+
+a{
+    text-decoration: none;
+    color: #683100;
+}
+
+.main-col{
+    display: block;
+}
+
+.img-box {
+    border-style: solid;
+    border-width: 5px;
+    border-color: white;
+    box-shadow: 3px 3px 5px #0000001f;  
+    border-bottom-left-radius: 25px;
+    border-top-right-radius: 25px; 
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    cursor: pointer;
+}
+
+.main {
+    height: 25rem;
+    width: 34rem;
+    background-image: url(../../assets/Box-main.jpg);
+}
+
+.sub {
+    height: 10rem;
+    width: 15rem;
+}
+
+.col {
+    margin-left: 1rem;
+    display: block;
+}
+
+.row {
+    height: 12rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card{
+    display: flex;
+    flex-direction: row;
+}
+
+.card-content {
+    width: 10rem;
+    margin-left: 1rem;
+    display: flex;
+    flex-direction: column; 
+    font-family: Calibri, arial;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.card-content h1{
+    font-size: 1rem;
+    font-weight: 500;
+}
+
+.card-content h2{
+    font-size: 1.3rem
+}
+
+.card-content h3{
+    font-size: 1rem;
+}
+
+.backdrop{
+    position: absolute;
+    z-index: 500;
+    height: 100%;
+    width: 100%;
+    background-color: #68310000;
+    visibility: hidden;
+    border-bottom-left-radius: 25px;
+    border-top-right-radius: 25px; 
+}
+
+.backdrop i{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    color: white;
+    font-size: 3rem;
+}
+
+.img-box:hover .backdrop{
+    transition: 1s;
+    background-color: #683100a4;
+    position: relative;
+    visibility: visible;
+}
+
+body{
+    overflow: hidden;
+}
+
+@media only screen and (max-width: 1180px){
+    .content {
+        width: 85vw;
+        padding: 1.5rem;
+    }
+    
+    .main {
+        height: 22rem;
+        width: 28rem;
+    }
+
+    .sub {
+        height: 9rem;
+        width: 12rem;
+    }
+}
+
+@media only screen and (max-width: 1020px){
+    .content {
+        width: 85vw;
+        padding: 1.5rem;
+    }
+
+    .main {
+        height: 20rem;
+        width: 26rem;
+    }
+
+    .sub {
+        height: 7rem;
+        width: 10rem;
+    }
+    .card-content {
+        width: 8rem;
+    }
+
+    .card-content h1{
+        font-size: 0.9rem;
+        font-weight: 500;
+    }
+    
+    .card-content h2{
+        font-size: 1rem
+    }
+    
+    .card-content h3{
+        font-size: 0.9rem;
+    }
+
+    .row {
+        height: 10rem;
+    }
+}
+
+@media only screen and (max-width: 890px){
+    .content{
+        position: relative;
+        left: 50%;
+        transform: translatex(-50%);
+        width: 85vw;
+        padding: 2rem;
+        display: grid;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .main {
+        height: 25rem;
+        width: 40rem;
+    }
+    
+    .backdrop{
+        height: 25rem;
+        width: 40rem;
+    }
+
+    .sub {
+        height: 7rem;
+        width: 10rem;
+    }
+
+    .card .backdrop{
+        height: 7rem;
+        width: 10rem;
+    }
+
+    .row {
+        height: 12rem;
+        width: 20rem;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .col {
+        margin-left: 0rem;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 40rem;
+    }
+
+    .main-col{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+}
+
+@media only screen and (max-width: 740px){
+    .col {
+        margin-left: 0rem;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        width: 40rem;
+    }
+
+    .main {
+        height: 22rem;
+        width: 30rem;
+    }
+
+    .backdrop{
+        height: 22rem;
+        width: 30rem;
+    }
+
+    .content{
+        width: 80vw;
+        padding: 2rem;
+    }
+
+    .sub {
+        height: 9rem;
+        width: 15rem;
+    }
+
+    .card .backdrop{
+        height: 9rem;
+        width: 15rem;
+    }
+
+    .card-content {
+        width: 14rem;
+    }
+
+    .card-content h1{
+        font-size: 1rem;
+        font-weight: 500;
+    }
+    
+    .card-content h2{
+        font-size: 1.2rem
+    }
+    
+    .card-content h3{
+        font-size: 1rem;
+    }
+}
+
+@media only screen and (max-width: 570px){
+    .main {
+        height: 15rem;
+        width: 25rem;
+    }
+
+    .backdrop{
+        height: 15rem;
+        width: 25rem;
+    }
+
+    .sub {
+        height: 7rem;
+        width: 12rem;
+    }
+
+    .card .backdrop{
+        height: 7rem;
+        width: 12rem;
+    }
+
+    .card-content {
+        width: 11rem;
+    }
+    
+    .card-content h1{
+        font-size: 0.9rem;
+        font-weight: 500;
+    }
+    
+    .card-content h2{
+        font-size: 1.1rem
+    }
+    
+    .card-content h3{
+        font-size: 0.9rem;
+    } 
+
+    .row {
+        height: 10rem;
+    }
+}
+
+@media only screen and (max-width: 470px){
+    .main {
+        height: 15rem;
+        width: 20rem;
+    }
+
+    .backdrop{
+        height: 15rem;
+        width: 20rem;
+    }
+   
+    .content{
+        width: 75vw;
+    }
+
+    .sub {
+        height: 7rem;
+        width: 10rem;
+    }
+
+    .card .backdrop{
+        height: 7rem;
+        width: 10rem;
+    }
+
+    .card-content {
+        width: 9rem;
+    }
+}
