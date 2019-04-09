@@ -11,3 +11,7 @@ Primeiramente execute via terminal 'npm install' para adquirir os pacotes necess
 Este projeto tem como premissa didática, inclusive logotipia (desenvolvida por mim mesmo) e conteúdo fictício, que tem como objetivo, apenas apresentar de forma clara a distribuição de informações e estruturas comummente utilizadas em rotinas de desenvolvimento.
 
 Este projeto tem codigo aberto para casos de opiniões, dicas ou apenas estudo de pessoas que buscam conhecimento (como eu).
+
+#### Um pouco sobre o projeto
+
+A ChocoBom é uma empresa criada apenas para este projeto, o intuito era desenvolver um site para armazenamento de receitas com ingredientes em comum (o chocolate).
