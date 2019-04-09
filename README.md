@@ -17,6 +17,14 @@ Este projeto tem codigo aberto para casos de opiniões, dicas ou apenas estudo d
 A ChocoBom é uma empresa criada apenas para este projeto, o intuito era desenvolver um site para armazenamento de receitas com ingredientes em comum (o chocolate).
 
 
-![HTML5_Badge_512](https://user-images.githubusercontent.com/44625914/55769014-89ac4800-5a55-11e9-8e3b-151dddf86e4a.png)
-![css3-logo](https://user-images.githubusercontent.com/44625914/55769015-8add7500-5a55-11e9-8a0b-85fa70bd08b4.png)
-![angular](https://user-images.githubusercontent.com/44625914/55769018-8b760b80-5a55-11e9-8065-853a84bdd658.png)
+[![NPM Version][npm-image]][npm-url]
+[![Build Status][travis-image]][travis-url]
+[![Downloads Stats][npm-downloads]][npm-url]
+
+<!-- Markdown link & img dfn's -->
+[npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
+[npm-url]: https://npmjs.org/package/datadog-metrics
+[npm-downloads]: https://img.shields.io/npm/dm/datadog-metrics.svg?style=flat-square
+[travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
+[travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
+[wiki]: https://github.com/yourname/yourproject/wiki
