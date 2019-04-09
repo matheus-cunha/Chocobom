@@ -15,3 +15,8 @@ Este projeto tem codigo aberto para casos de opiniões, dicas ou apenas estudo d
 #### Um pouco sobre o projeto
 
 A ChocoBom é uma empresa criada apenas para este projeto, o intuito era desenvolver um site para armazenamento de receitas com ingredientes em comum (o chocolate).
+
+
+![HTML5_Badge_512](https://user-images.githubusercontent.com/44625914/55769014-89ac4800-5a55-11e9-8e3b-151dddf86e4a.png)
+![css3-logo](https://user-images.githubusercontent.com/44625914/55769015-8add7500-5a55-11e9-8a0b-85fa70bd08b4.png)
+![angular](https://user-images.githubusercontent.com/44625914/55769018-8b760b80-5a55-11e9-8065-853a84bdd658.png)
