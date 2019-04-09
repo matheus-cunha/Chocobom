@@ -1,7 +1,7 @@
 ![Build Status](https://img.shields.io/appveyor/ci/thiagoloureiro/netcore-jwt-integrator-extension/master.svg)
-![CSS Version](https://img.shields.io/badge/CSS-Vesion 3-BLUE.svg)
+![CSS Version](https://img.shields.io/badge/CSS-Vesion3-BLUE.svg)
 ![Angular CLI](https://img.shields.io/badge/Angular-7.3.5-RED.svg)
-![HTML](https://img.shields.io/badge/HTML-Vesion 5-ORANGE.svg)
+![HTML](https://img.shields.io/badge/HTML-Vesion5-ORANGE.svg)
 
 # ChocoBom - Receitas
 
