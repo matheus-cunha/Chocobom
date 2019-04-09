@@ -1,4 +1,5 @@
-https://img.shields.io/badge/CSS-3-BLUE.svg
+[![Build Status](https://img.shields.io/appveyor/ci/thiagoloureiro/netcore-jwt-integrator-extension/master.svg)](https://ci.appveyor.com/project/thiagoloureiro/netcore-jwt-integrator-extension)
+[![CSS Version](https://img.shields.io/badge/CSS-3-BLUE.svg)
 
 # ChocoBom - Receitas
 
