@@ -1,4 +1,4 @@
-<a href=""><img src="./src/assets/Logo.png" alt="main-logo" height="160"></a>
+<a href=""><img src="./src/assets/logo.png" alt="main-logo" height="160"></a>
 
 # Chocobom Receitas.
 
@@ -10,9 +10,9 @@
 
 ---
 
-<img src="./home.gif" alt="teste" width="1500">
+<img src="src/assets/animation.gif" alt="teste" width="1500">
 
-<img src="./responsive.png" alt="teste" width="1500">
+<img src="./src/assets/responsive.png" alt="teste" width="1500">
 
 ---
 
