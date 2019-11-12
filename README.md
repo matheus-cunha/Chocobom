@@ -1,25 +1,78 @@
-![Build Status](https://img.shields.io/appveyor/ci/thiagoloureiro/netcore-jwt-integrator-extension/master.svg)
-![CSS Version](https://img.shields.io/badge/CSS-Vesion_3-BLUE.svg)
-![Angular CLI](https://img.shields.io/badge/Angular-7.3.5-RED.svg)
-![HTML](https://img.shields.io/badge/HTML-Vesion_5-ORANGE.svg)
+<a href=""><img src="src/assets/Logo.png" alt="main-logo" height="160"></a>
 
-# ChocoBom - Receitas
+# Chocobom Receitas.
 
-Este projeto foi criado utilizando uma versão do Angular Cli (https://github.com/angular/angular-cli) versão 7.3.5.
+> Projeto desenvolvido para atender necessidade de apresentação de receitas que envolvem chocolate.
 
-## Servidor e Testes
+> Este projeto foi criado utilizando uma versão do Angular Cli (https://github.com/angular/angular-cli) versão 7.3.5.
 
-Primeiramente execute via terminal 'npm install' para adquirir os pacotes necessários para executar o cliente Angular, logo em seguida utilize o comando 'ng serve' para hospedar localmente um servidor para testes e desenvolvimento. Utilizando estes comandos anteriormente citados, em caso de modificações do codigo, o navegador irá interpretar o mesmo e atualizar as modificações automaticamente.
+![Build Status](https://img.shields.io/appveyor/ci/thiagoloureiro/netcore-jwt-integrator-extension/master.svg) ![CSS Version](https://img.shields.io/badge/CSS-Vesion_3-BLUE.svg) ![Angular CLI](https://img.shields.io/badge/Angular-7.3.5-RED.svg) ![HTML](https://img.shields.io/badge/HTML-Vesion_5-ORANGE.svg)
 
-## Uso de Marca e projeto
+---
 
-Este projeto tem como premissa didática, inclusive logotipia (desenvolvida por mim mesmo) e conteúdo fictício, que tem como objetivo, apenas apresentar de forma clara a distribuição de informações e estruturas comummente utilizadas em rotinas de desenvolvimento.
+<img src="./home.gif" alt="teste" width="1500">
 
-Este projeto tem codigo aberto para casos de opiniões, dicas ou apenas estudo de pessoas que buscam conhecimento (como eu).
+<img src="./responsive.png" alt="teste" width="1500">
 
-## Um pouco sobre o projeto
+---
+
+## Servidor de testes.
+
+Para execução do projeto será necessário a instalação dos pacotes do cliente Angular, siga o passo a passo a seguir:
+
+> Instale via terminal os arquivos necessarios para compilação do projeto. Em seguida execute o comando para iniciar o servidor de testes:
+```shell
+$ npm install
+$ ng serve
+```
+
+Utilizando o servidor de testes, todas as modificações do codigo serão interpretadas pelo navegador e atualizaram automaticamente.
+
+---
+
+## Logotipia e marca.
+
+Este projeto tem como premissa didática, inclusive logotipia e conteúdo fictício, que tem como objetivo, apenas apresentar de forma clara a distribuição de informações e estruturas comummente utilizadas em rotinas de desenvolvimento.  
 
 A ChocoBom é uma empresa criada apenas para este projeto, o intuito era desenvolver um site para armazenamento de receitas com ingredientes em comum (o chocolate).
 
+---
 
+## Status do projeto
 
+- [x] Desenvolvimento de projeto.
+- [x] Projeto base.
+- [ ] Responsividade.
+- [ ] Testes e implementações.
+
+---
+
+## Contribua
+
+Este projeto possui codigo aberto para casos de opiniões, dicas ou apenas estudo de pessoas que buscam conhecimento (como eu).
+
+### Passo 1
+
+- Faça um Fork ou Clone este repositório.
+
+### Passo 2
+
+- Desenvolva, altere e trabalhe da forma que preferir.
+
+### Passo 3
+
+- Crie um novo pull request e aguarde a análise.
+
+Por menor que seja o pull request, agradeço desde já sua contribuição. Todo o conhecimento é bem vindo!
+
+---
+
+## Contato
+
+Me siga nas redes sociais! 
+
+[Website https://matheus-cunha.github.io/](https://matheus-cunha.github.io/)
+
+[Pinterest](https://br.pinterest.com/portifoliomatheuscunha/)
+
+[Email](matheus.cunha.sjc@gmail.com)
