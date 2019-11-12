@@ -10,7 +10,7 @@
 
 ---
 
-<img src="src/assets/animation.gif" alt="teste" width="1500">
+<img src="./src/assets/animation.gif" alt="teste" width="1500">
 
 <img src="./src/assets/responsive.png" alt="teste" width="1500">
 
@@ -71,7 +71,7 @@ Por menor que seja o pull request, agradeço desde já sua contribuição. Todo 
 
 Me siga nas redes sociais! 
 
-[Website https://matheus-cunha.github.io/](https://matheus-cunha.github.io/)
+[Website](https://matheus-cunha.github.io/)
 
 [Pinterest](https://br.pinterest.com/portifoliomatheuscunha/)
 
