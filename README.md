@@ -1,4 +1,4 @@
-<a href=""><img src="src/assets/Logo.png" alt="main-logo" height="160"></a>
+<a href=""><img src="./src/assets/Logo.png" alt="main-logo" height="160"></a>
 
 # Chocobom Receitas.
 
